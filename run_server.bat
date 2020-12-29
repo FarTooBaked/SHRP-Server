@@ -1,0 +1,1 @@
+c:\shrp\fxserver.exe exec server.cfg +set onesync legacy
